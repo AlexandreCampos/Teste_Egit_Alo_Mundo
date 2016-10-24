@@ -5,6 +5,8 @@ public class Aplicacao {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Oi");
+		//teste GIT
+		System.out.println("Teste GitHub");
 
 	}
 
